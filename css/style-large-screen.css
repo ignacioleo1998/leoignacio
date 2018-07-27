@@ -1,0 +1,262 @@
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+
+  /* Containers of work */
+
+.container-work {
+
+      text-align: center;
+
+}
+
+.container-work .work-title {
+
+      padding: 0px;
+
+}
+
+/* End of Containers of work */
+
+/* The Information of work website */
+
+.work-info {
+
+      margin: auto;
+      width: 60%;
+      padding: 5px;
+
+}
+
+.work-img img {
+
+      width: 700px;
+      height: 350px;
+      margin-top: 100px;
+      border-radius: 25px;
+      position: relative;
+
+}
+
+.work-title {
+
+      font-size: 45px;
+      font-weight: 400;
+      margin-top: 25px;
+      color: #fff;
+
+}
+
+.work-sub-title {
+
+      padding-bottom: 10px;
+      font-size: 30px;
+      color: #fff;
+
+}
+
+.work-paragraph {
+
+      color: white;
+      font-size: 25px;
+
+}
+
+/* End of The Information of work website */
+
+/* Button */
+
+.btn-work  {
+
+      margin-top: 25px;
+      letter-spacing: 3px;
+      text-decoration: none;
+      padding: 25px 50px;
+      font-size: 20px;
+      border-radius: 5px;
+      border-color: transparent;
+      color: #fff;
+      background-color: #000000;
+}
+
+
+/* Button */
+
+/* The First Section is a INTRO */
+
+
+.work-img-intro img {
+
+      width: 200px;
+      height: 250px;
+
+}
+
+.work-paragraph-intro {
+
+      color: white;
+      font-size: 25px;
+
+}
+
+.work-sub-title-work {
+
+      color: #45b29a;
+      font-weight: bold;
+      font-size: 30px;
+      margin-bottom: 15px;
+
+}
+
+/* This is the end of Intro */
+
+
+/* The Section code/design */
+
+.section-work-1, .section-work-2, .section-work-3 {
+
+      min-height: 100% !important;
+      height: 100%;
+
+}
+
+.section-work-1 {
+
+      background-color: #31355b;
+      width: 100%;
+      padding-bottom: 90px;
+      height: 100%;
+
+}
+
+.section-work-2 {
+
+      background-color: #f76160;
+      width: 100%;
+      padding-bottom: 90px;
+      height: 100%;
+
+}
+
+.section-work-3 {
+
+      background-color: #7dcc93;
+      width: 100%;
+      padding-bottom: 90px;
+      height: 100%;
+
+}
+
+.section-work-intro {
+
+      height: 400px;
+
+}
+
+/* This is the end of section code/design */
+
+  .center-img img {
+
+      border-radius: 150px;
+      width: 250px;
+      height: 250px;
+
+    }
+
+  .left-img img {
+
+      border-radius: 150px;
+      width: 250px;
+      height: 250px;
+      margin-left: 630px;
+      float: left;
+
+    }
+
+  .right-img img {
+
+      border-radius: 150px;
+      width: 250px;
+      height: 250px;
+      margin-right: 600px;
+      float: right;
+
+    }
+
+  .float-left {
+
+      float: none;
+      text-align: center !important;
+
+    }
+
+  .float-right {
+
+      float: none;
+      text-align: center;
+
+    }
+
+  .content-p {
+
+      font-size: 25px;
+      font-family: 'myCenturyGothic';
+      font-weight: 500;
+      letter-spacing: 1px;
+      color: white !important;
+    }
+
+  .main-p {
+
+      text-align: center;
+      padding-right: 550px;
+      padding-left: 550px;
+
+    }
+
+  /* Typed */
+
+  .text {
+    display: inline-block;
+    font-size: 5em;
+    font-weight: 300;
+    margin: 0;
+    line-height: 0.5 !important;
+    color: #ffffff;
+}
+
+  /* Typed */
+
+
+    .owner {
+
+      margin:0px;
+
+    }
+
+  /* Skills */
+
+  .chart{
+
+      width:80%;
+      max-width:1200px;
+      margin-left: 25% !important;
+
+  } 
+
+  .skills{
+
+      width: 13%;
+
+  }
+
+  .bars{
+
+      width:85%;
+      left:15%;
+
+  }
+
+  /* Skills */
+}
+
+/* Large screens ----------- */
